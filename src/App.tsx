@@ -325,6 +325,7 @@ const App: React.FC = () => {
             minHeight: "auto", // allow height to adapt naturally
             padding: "60px 20px", // add some breathing room
           },
+          
         }}
       >
         {/* Desktop Sidebar */}
