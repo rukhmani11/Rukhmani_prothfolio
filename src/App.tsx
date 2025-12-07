@@ -157,7 +157,7 @@ const App: React.FC = () => {
       color: "#0288d1",
     },
     {
-      
+
       name: "UI / UX Design",
       desc: "Designing clean, intuitive, and user-friendly interfaces that offer smooth and engaging experiences.",
       icon: Brush,
@@ -177,7 +177,6 @@ const App: React.FC = () => {
     },
   ];
 
-  const [emailLink, setEmailLink] = useState("");
 
   const [formData, setFormData] = useState({
     name: "",
