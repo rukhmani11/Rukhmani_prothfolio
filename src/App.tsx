@@ -102,14 +102,14 @@ const App: React.FC = () => {
     },
     {
       name: "REACT",
-      value: 90,
+      value: 75,
       icon: FaReact,
       color: "#61DAFB",
       desc: "Component-based UI. Dynamic type-safe codebases.",
     },
     {
       name: ".NET CORE",
-      value: 60,
+      value: 50,
       icon: SiDotnet,
       color: "#512BD4",
       desc: "Scalable backend services. Flexible backend systems.",
@@ -123,7 +123,7 @@ const App: React.FC = () => {
     },
     {
       name: "ANGULAR",
-      value: 80,
+      value: 50,
       icon: FaAngular,
       color: "#DD0031",
       desc: "Single-page application frameworks. Scalable backend services.",
